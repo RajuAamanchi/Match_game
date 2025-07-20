@@ -10,25 +10,27 @@ Watch the game in action below:
 
 ![Match Game Demo](https://github.com/RajuAamanchi/Match_game/blob/main/assets/match-game-output.gif?raw=true)
 
-
-
 ---
 
 ## Features
 
-- Timer countdown
-- Score tracking
-- Multiple image categories
-- Responsive UI
+- Timer countdown  
+- Score tracking  
+- Multiple image categories  
+- Responsive UI  
+
+---
 
 ## Tech Stack
 
-- React.js
-- JavaScript
-- CSS
+- React.js  
+- JavaScript  
+- CSS  
+
+---
 
 ## How to Run Locally
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/RajuAamanchi/Match_game.git
