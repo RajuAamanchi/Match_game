@@ -4,6 +4,6 @@
 
 Watch the game in action below:
 
-![Match Game Demo](./assets/match-game-output.gif)
+![Match Game Demo](./assets/match-game-output.mp4)
 
 ---
