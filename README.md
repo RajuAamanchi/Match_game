@@ -1,4 +1,9 @@
-### Refer to the video below:
+---
 
-![Match_game](./assets/match-game-demo.gif)
+## 🕹️ Match Game Project Demo
 
+Watch the game in action below:
+
+![Match Game Demo](./assets/match-game-output.gif)
+
+---
