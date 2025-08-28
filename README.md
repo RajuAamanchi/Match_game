@@ -1,10 +1,3 @@
-Perfect 👍  
-Got it — since this **Match Game** is from your **learning portal exercises**, I’ll prepare a clean and professional **README.md** just for your GitHub repo. This will help you show your project properly to others (like recruiters, peers, etc.) without looking like raw coursework instructions.  
-
-Here’s the GitHub-friendly **README.md** you can upload:  
-
-***
-
 # 🎮 Match Game (React Project)  
 
 This is a **fun image matching game** built with **ReactJS**.  
