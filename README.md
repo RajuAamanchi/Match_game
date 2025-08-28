@@ -40,7 +40,7 @@ It was developed as part of my React learning journey to practice **state manage
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/match-game.git
+git clone https://github.com/RajuAamanchi/match-game.git
 cd match-game
 ```
 
