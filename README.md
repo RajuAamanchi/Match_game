@@ -14,8 +14,6 @@ It was developed as part of my React learning journey to practice **state manage
 - Final score is displayed on a **Scorecard screen** with an option to **Play Again**.  
 
 
-https://github.com/user-attachments/assets/11f888df-a43e-4016-9c69-5d2630757986
-
 
 ***
 
@@ -59,13 +57,17 @@ The app will be available at **http://localhost:3000/**
 
 ***
 
+
 ## 🎥 Output Screens  
 
 ### Game Screen  
-<img src="https://assets.ccbp.in/frontend/content/react-js/match-game-lg-output.png" alt="Game screen" width="700"/>  
+[<img src="https://assets.ccbp.in/frontend/content/react-js/match-game-lg-output.png" alt="Game screen" width="700"/>  ](https://github.com/user-attachments/assets/11f888df-a43e-4016-9c69-5d2630757986)
 
 ### Scorecard Screen  
-<img src="https://assets.ccbp.in/frontend/content/react-js/match-game-score-card-lg-output.png" alt="Scorecard screen" width="700"/>  
+<img width="1030" height="944" alt="match-game-score-card-lg-output" src="https://github.com/user-attachments/assets/0c3576fb-a508-4a06-94c4-052edc9635b9" />
+
+
+
 
 ***
 
