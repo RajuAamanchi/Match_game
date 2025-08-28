@@ -13,6 +13,10 @@ It was developed as part of my React learning journey to practice **state manage
 - A **wrong match** or **time running out** ends the game.  
 - Final score is displayed on a **Scorecard screen** with an option to **Play Again**.  
 
+
+https://github.com/user-attachments/assets/11f888df-a43e-4016-9c69-5d2630757986
+
+
 ***
 
 ## 🚀 Features  
