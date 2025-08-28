@@ -92,5 +92,3 @@ You can use or modify it for **educational purposes**.
 ✨ Thanks for checking out my project!  
 
 ***
-
-👉 Would you like me to also add a **“Live Demo” section** (e.g., GitHub Pages/Netlify link placeholder) so that others can directly play the game from your repo?
